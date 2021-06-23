@@ -1,2 +1,2 @@
-# Algorithms-in-C-
+# Algorithms-in-C++
 It's just a try....
