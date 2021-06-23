@@ -85,3 +85,22 @@ int main()
     item.display();
     return 0;
 }
+
+
+/*
+Output ->
+
+enter the max weight of the bag: 20
+Enter no of objects:
+3
+Enter 1 profit 25
+Enter 1 Weight 18
+Enter 2 profit 24
+Enter 2 Weight 15
+Enter 3 profit 15
+Enter 3 Weight 10
+profit:  24  15  25
+weight:  15  10  18
+MAXIMUM PROFIT:31.5
+
+*/
